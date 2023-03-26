@@ -38,6 +38,7 @@ export class App extends React.Component {
           display: 'flex',
           flexDirection: 'column',
           justifyContent: 'center',
+          textAlign: 'center',
           alignItems: 'center',
           fontSize: 25,
           color: '#010101',
